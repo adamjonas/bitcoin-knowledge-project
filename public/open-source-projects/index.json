@@ -90,7 +90,7 @@
     },
     "stratum": {
         "repo_url": "https://github.com/stratum-mining/stratum",
-        "name": "StratumV2",
+        "name": "stratum",
         "org": "stratum-mining",
         "tags": ["mining", "bitcoin", "protocol"],
         "lang": ["Rust"],
